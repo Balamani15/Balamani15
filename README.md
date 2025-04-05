@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balamani pinninti
-- 👀 I’m interested in cyber security and developer
-- 🌱 I’m currently learning java and c++
-- 💞️ I’m looking to collaborate on developer and currently looking for an developer role or cuber security role
+- 👀 I’m interested in Data Analysis, Bussiness Analysis
+- 🌱 I’m currently learning Python and SQL,Power BI
+- 💞️ I’m looking to collaborate on developer and currently looking for an Data analyst, Bussiness analyst
 - 📫 How to reach me? Mail ID:@balamanipinninti7@gmail.com and linkdin balamani pinninti
   
 
